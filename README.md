@@ -25,14 +25,13 @@
 <table>
 <tr>
 <td width="34%" valign="top">
-
 ## 👤 About Me
 
 I'm a Software AI Engineer interested in building intelligent applications that connect AI with real-world software systems.
 
 I combine full-stack development with AI integration, backend architecture and automation.
 
-**Focus areas**
+**Focus Areas**
 
 - Software Engineering
 - AI Systems Integration
@@ -40,69 +39,43 @@ I combine full-stack development with AI integration, backend architecture and a
 - Context Engineering
 - Intelligent Automation
 
-<p align="center">
-  <a href="https://github.com/Mudakuzu-Migi">
-    <img src="https://img.shields.io/badge/GitHub-Profile-8B7CFF?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+\<p align="center">   \<a href="[https://github.com/Mudakuzu-Migi](https://github.com/Mudakuzu-Migi)">     \<img src="[https://img.shields.io/badge/GitHub-Profile-8B7CFF?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/GitHub-Profile-8B7CFF?style=for-the-badge\&logo=github\&logoColor=white)" />   \</a> \</p>
 
-</td>
-<td width="66%" valign="top">
+---
 
 ## ⚡ What I Do
-
-<table>
-<tr>
-<td width="50%" valign="top">
 
 ### 💻 Full-Stack Development
 
 Node.js · NestJS · React · Redux · TypeORM
 
-</td>
-<td width="50%" valign="top">
-
 ### 🧠 AI Systems Integration
 
 LLMs · MCP · OpenCode · Function Calling · AI Skills
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
 
 ### 🗄️ Data & Backend
 
 PostgreSQL · SQL · Relational Databases · Backend Architecture
 
-</td>
-<td width="50%" valign="top">
-
 ### ⚙️ Intelligent Automation
 
 AI Workflows · Tool Integration · Agent Orchestration
 
-</td>
-</tr>
-</table>
+---
 
 ## 🚀 Featured Projects
 
-**AI Job Search Platform**
+### 🤖 AI Job Search Platform
 
 An AI-powered job search platform extending an existing framework with custom backend integration, MCP connectivity and persistent candidate context management.
 
 [Explore Repository →](https://github.com/Mudakuzu-Migi/ai-job-search-ui)
 
-**Cookbook**
+### 📚 Cookbook
 
 A software development project.
 
 [Explore Repository →](https://github.com/Mudakuzu-Migi/Cookbook)
-
-</td>
-</tr>
-</table>
 
 ---
 
