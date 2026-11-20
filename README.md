@@ -40,27 +40,35 @@ I combine full-stack development with AI integration, backend architecture and a
 - Context Engineering
 - Intelligent Automation
 
-\<p align="center">   \<a href="[https://github.com/Mudakuzu-Migi](https://github.com/Mudakuzu-Migi)">     \<img src="[https://img.shields.io/badge/GitHub-Profile-8B7CFF?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/GitHub-Profile-8B7CFF?style=for-the-badge\&logo=github\&logoColor=white)" />   \</a> \</p>
-
 ---
 
-## ⚡ What I Do
+🛠️ Technology Stack
 
-### 💻 Full-Stack Development
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,react,redux,postgres,aws,docker&theme=dark" />
+</p>
 
-Node.js · NestJS · React · Redux · TypeORM
+<p align="center">
+  <img src="https://img.shields.io/badge/TypeORM-Data_Access-8B7CFF?style=flat-square" />
+  <img src="https://img.shields.io/badge/SQL-Database_Queries-8B7CFF?style=flat-square" />
+  <img src="https://img.shields.io/badge/AWS_S3-Cloud_Storage-8B7CFF?style=flat-square" />
+</p>
 
-### 🧠 AI Systems Integration
+<p align="center">
+  <img src="https://img.shields.io/badge/LLMs-Integration-8B7CFF?style=flat-square" />
+  <img src="https://img.shields.io/badge/Local_LLMs-8B7CFF?style=flat-square" />
+  <img src="https://img.shields.io/badge/Ollama-Local_AI-8B7CFF?style=flat-square" />
+  <img src="https://img.shields.io/badge/MCP-Servers-8B7CFF?style=flat-square" />
+</p>
 
-LLMs · MCP · OpenCode · Function Calling · AI Skills
-
-### 🗄️ Data & Backend
-
-PostgreSQL · SQL · Relational Databases · Backend Architecture · AWS · Docker
-
-### ⚙️ Intelligent Automation
-
-AI Workflows · Tool Integration · Agent Orchestration
+<p align="center">
+  <img src="https://img.shields.io/badge/OpenCode-Agent_Environment-8B7CFF?style=flat-square" />
+  <img src="https://img.shields.io/badge/Function_Calling-8B7CFF?style=flat-square" />
+  <img src="https://img.shields.io/badge/AI_Skills-8B7CFF?style=flat-square" />
+  <img src="https://img.shields.io/badge/AI_Workflows-8B7CFF?style=flat-square" />
+  <img src="https://img.shields.io/badge/Agent_Orchestration-8B7CFF?style=flat-square" />
+  <img src="https://img.shields.io/badge/Tool_Integration-8B7CFF?style=flat-square" />
+</p>
 
 ---
 
@@ -77,34 +85,6 @@ An AI-powered job search platform extending an existing framework with custom ba
 A software development project.
 
 [Explore Repository →](https://github.com/Mudakuzu-Migi/Cookbook)
-
----
-
-## 🛠️ Technology Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,react,redux,postgres,typescript,js,git,github&theme=dark" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/LLMs-Integration-8B7CFF?style=flat-square" />
-  <img src="https://img.shields.io/badge/MCP-Servers-8B7CFF?style=flat-square" />
-  <img src="https://img.shields.io/badge/OpenCode-Agent_Runtime-8B7CFF?style=flat-square" />
-  <img src="https://img.shields.io/badge/AI-Workflows-8B7CFF?style=flat-square" />
-</p>
-
----
-
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Mudakuzu-Migi&show_icons=true&hide_border=true&theme=transparent&title_color=9B8CFF&icon_color=9B8CFF&text_color=9CA3AF" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mudakuzu-Migi&layout=compact&hide_border=true&theme=transparent&title_color=9B8CFF&text_color=9CA3AF" />
-</p>
-
-<p align="center">
-  <img width="75%" src="https://streak-stats.demolab.com?user=Mudakuzu-Migi&hide_border=true&background=00000000&ring=9B8CFF&fire=9B8CFF&currStreakLabel=9B8CFF&sideLabels=9CA3AF&dates=9CA3AF" />
-</p>
 
 ---
 
