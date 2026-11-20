@@ -25,6 +25,7 @@
 <table>
 <tr>
 <td width="34%" valign="top">
+  
 ## 👤 About Me
 
 I'm a Software AI Engineer interested in building intelligent applications that connect AI with real-world software systems.
