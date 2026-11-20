@@ -56,7 +56,7 @@ LLMs · MCP · OpenCode · Function Calling · AI Skills
 
 ### 🗄️ Data & Backend
 
-PostgreSQL · SQL · Relational Databases · Backend Architecture
+PostgreSQL · SQL · Relational Databases · Backend Architecture · AWS · Docker
 
 ### ⚙️ Intelligent Automation
 
